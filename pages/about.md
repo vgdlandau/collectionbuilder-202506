@@ -20,7 +20,11 @@ padding: 6em
 
 ## About This Collection
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+This demo site highlights Canadian GLAM institutions currently housing ancient papyrus documents. It further features example items from each collection, which are made available in a variety of ways (hosted on server, IIIF-compatible, downloadable, ...).
+
+Last updated: Wed. 04.06.2025, 20:20
+
+This website was built using [CollectionBuilder](https://collectionbuilder.github.io/), and uses the template [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
 
 CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
 
