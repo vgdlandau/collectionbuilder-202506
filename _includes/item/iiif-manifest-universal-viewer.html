@@ -13,7 +13,7 @@
 <script>
     // initialize Universal Viewer
     var uvOptions = {
-        manifest: {{ page.object_location | relative_url | jsonify }}
+        manifest: {{ child.object_location | default: page.object_location | relative_url | jsonify }}
         // add options here!
     };
     var iiif_viewer = UV.init("uv", uvOptions);
