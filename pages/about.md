@@ -22,7 +22,7 @@ padding: 6em
 
 This demo site highlights Canadian GLAM institutions currently housing ancient papyrus documents. It further features example items from each collection, which are made available in a variety of ways (hosted on server, IIIF-compatible, downloadable, ...).
 
-Last updated: Wed. 04.06.2025, 20:20
+Last updated: Wed. 06.06.2025, 10:05
 
 This website was built using [CollectionBuilder](https://collectionbuilder.github.io/), and uses the template [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
 
